@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3dcaaa78.css",
+    "main.js": "/portfolio/static/js/main.fdec35ef.js",
+    "static/media/map.svg": "/portfolio/static/media/map.0d7639e83802dec1e21368a6a2e777bb.svg",
+    "static/media/bg02.jpeg": "/portfolio/static/media/bg02.1bea0999a2083cc20a71.jpeg",
+    "static/media/avatar02.jpg": "/portfolio/static/media/avatar02.3b947cedf69e8ae04fad.jpg",
+    "static/media/avatar.jpg": "/portfolio/static/media/avatar.fb6b8340f1755a6a7d74.jpg",
+    "static/media/NodeJs_Course.jpg": "/portfolio/static/media/NodeJs_Course.9852271d56db95e8c10a.jpg",
+    "static/media/Strapi_Course.jpg": "/portfolio/static/media/Strapi_Course.2237099857ccf0210dba.jpg",
+    "static/media/ECMASCRIPT_Course.jpg": "/portfolio/static/media/ECMASCRIPT_Course.d428e2f25f4b652cc2c5.jpg",
+    "static/media/VSCode_Course.jpg": "/portfolio/static/media/VSCode_Course.5ace129074cb3d9bba21.jpg",
+    "static/media/ReactJs_Course.jpg": "/portfolio/static/media/ReactJs_Course.78e31f9fefccf5c0b9fb.jpg",
+    "static/media/ReactNative_Course.jpg": "/portfolio/static/media/ReactNative_Course.003dacb162458b09c716.jpg",
+    "static/media/user.png": "/portfolio/static/media/user.e5117e8e0cea57c9a92f.png",
+    "static/media/react-original.svg": "/portfolio/static/media/react-original.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/nodejs-original.svg": "/portfolio/static/media/nodejs-original.10c9e2aa0ca7edf36fceae25fec038a1.svg",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/javascript-original.svg": "/portfolio/static/media/javascript-original.4c1b5332c1b1057928f6f06cf972c91c.svg",
+    "static/media/css3-original.svg": "/portfolio/static/media/css3-original.39769a8bd378bf410d6b381a8d88fa35.svg",
+    "static/media/git-original.svg": "/portfolio/static/media/git-original.c08353563539c6459b353f29d8dd7bf2.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/html5-original.svg": "/portfolio/static/media/html5-original.8664168d5bc90b1a24396f85aadbf623.svg",
+    "main.3dcaaa78.css.map": "/portfolio/static/css/main.3dcaaa78.css.map",
+    "main.fdec35ef.js.map": "/portfolio/static/js/main.fdec35ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dcaaa78.css",
+    "static/js/main.fdec35ef.js"
+  ]
+}
