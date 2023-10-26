@@ -10,6 +10,7 @@ const DevExpTimeline = ({loading}) => {
                 {
                     devEdu.map((item, index) => (
                         <Slide
+                            key={index}
                             direction={"up"}
                             in={loading}
                             style={{

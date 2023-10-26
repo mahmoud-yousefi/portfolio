@@ -31,9 +31,14 @@ function AppContainer() {
         }
     }, [isMdUp])
     const handlePageNumber = (event, newValue) => {
+        console.log("Page Number Event:", event);
+        console.log("Page Number:", newValue);
         setPageNumber(newValue);
     }
 
+    const handlePageChange = index => {
+        setPageNumber(index);
+    }
     const handleThemeChange = () => {
         setMode(prevMode => prevMode === "light"? "dark" : "light");
     };
@@ -48,7 +53,7 @@ function AppContainer() {
               <PagesContainer>
                   <SwipeableViews
                       index={pageNumber}
-                      onChangeIndex={handlePageNumber}
+                      onChangeIndex={handlePageChange}
                   >
                       <Page pageNumber={pageNumber} index={0}>
                           <Home helmetTitle={"وب سایت محمود یوسفی | صفحه اصلی"}/>

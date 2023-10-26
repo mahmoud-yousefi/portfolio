@@ -27,7 +27,7 @@ const ShowCourses = ({loading}) => {
                                       </Typography>
                                       <Typography variant={"body2"} color={"text.secondary"} textAlign={"left"} gutterBottom
                                                   sx={{direction: "ltr"}}>
-                                          <EllipsisText text={course.info} length={"100"}/>
+                                          <EllipsisText text={course.info} length={100}/>
                                       </Typography>
                                   </CardContent>
                               </CardActionArea>
