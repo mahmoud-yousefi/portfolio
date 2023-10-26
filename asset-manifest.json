@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3dcaaa78.css",
-    "main.js": "/portfolio/static/js/main.fdec35ef.js",
+    "main.js": "/portfolio/static/js/main.a166b313.js",
     "static/media/map.svg": "/portfolio/static/media/map.0d7639e83802dec1e21368a6a2e777bb.svg",
     "static/media/bg02.jpeg": "/portfolio/static/media/bg02.1bea0999a2083cc20a71.jpeg",
-    "static/media/avatar02.jpg": "/portfolio/static/media/avatar02.3b947cedf69e8ae04fad.jpg",
+    "static/media/avatar02.jpg": "/portfolio/static/media/avatar02.9f4cce122ed25a4dd12e.jpg",
     "static/media/avatar.jpg": "/portfolio/static/media/avatar.fb6b8340f1755a6a7d74.jpg",
     "static/media/NodeJs_Course.jpg": "/portfolio/static/media/NodeJs_Course.9852271d56db95e8c10a.jpg",
     "static/media/Strapi_Course.jpg": "/portfolio/static/media/Strapi_Course.2237099857ccf0210dba.jpg",
@@ -13,6 +13,7 @@
     "static/media/ReactJs_Course.jpg": "/portfolio/static/media/ReactJs_Course.78e31f9fefccf5c0b9fb.jpg",
     "static/media/ReactNative_Course.jpg": "/portfolio/static/media/ReactNative_Course.003dacb162458b09c716.jpg",
     "static/media/user.png": "/portfolio/static/media/user.e5117e8e0cea57c9a92f.png",
+    "static/media/php.svg": "/portfolio/static/media/php.90ed324f8c6fabab7bead65a6834d344.svg",
     "static/media/react-original.svg": "/portfolio/static/media/react-original.4e0c97009b885bfa75c5412262a46f5f.svg",
     "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -25,10 +26,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/html5-original.svg": "/portfolio/static/media/html5-original.8664168d5bc90b1a24396f85aadbf623.svg",
     "main.3dcaaa78.css.map": "/portfolio/static/css/main.3dcaaa78.css.map",
-    "main.fdec35ef.js.map": "/portfolio/static/js/main.fdec35ef.js.map"
+    "main.a166b313.js.map": "/portfolio/static/js/main.a166b313.js.map"
   },
   "entrypoints": [
     "static/css/main.3dcaaa78.css",
-    "static/js/main.fdec35ef.js"
+    "static/js/main.a166b313.js"
   ]
 }
